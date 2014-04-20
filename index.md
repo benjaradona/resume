@@ -1,132 +1,78 @@
-Christophe-Marie Duquesne
+Benjamin Häggqvist
 =========================
 
 ----
 
->  Specialties: C++, Python, Linux, Operations Research\
->  Doctor in Computer Science and Mathematics
+>  Jag är civilingenjör i teknisk fysik. Har efter utbildningen jobbat mycket med olika typer av programmering. Till en början mestadels i statistikprogrammet R men senaste tiden mycket i HTML och Javascript samt olika tilläggsbibliotek. Är ett stort fan av open source och medföljande communities som gemensamt löser problem och delar med sig av lösningarna. 
 
 ----
 
-Corporate Experience
+Arbetslivserfarenhet
 --------------------
 
-Since 2013
-:   *Data Scientist for [Airconomy](https://www.airconomy.com/)*
-    (Frankfurt am Main, Germany).
+Sedan Augusti-2013
+:   *Systemutvecklare*
+    (Västerbottens läns landsting).
 
-    Data mining on various sources to forecast passenger demands over
-    airline networks.
+    Arbetar med registerplattformen INCA. Bygger databaser för kvalitetsregister inom sjukvård samt inmatningsformulär för webbinmatning. Det innebär mycket programmering i HTML/JavaScript samt olika JavaScript-ramverk som jQuery, Angular och Knockout. Arbetar i ett SCRUM-lag där jag är scrum master.
 
-2009-2012
-:   *PhD in Operations Research with
-    [Amadeus](http://www.amadeus.com/amadeus/amadeus.html)* (Sophia
-    Antipolis, France).
+2006-2013
+:   *Statistiker/Systemutvecklare* 
+    (Västerbottens läns landsting).
+  
+    Förutom indatabiten jobbade jag som nationellt ansvarig statistiker för Svenskt Bråckregister (2006-2012), RättspsyK (2009-2012) och kvalitetsregistret för Esofagus- och Ventrikelcancer (2012-2013). Som nationellt ansvarig statistiker jobbar man i huvudsak med:  
+    * **Rapporter** Varje kvalitetsregister får en årlig rapport. I vissa register görs också klinikrapporter och landstingsrapporter.  
+    * **Utdatamallar** Man skapar utdatamallar för att hjälpa användarna att se sitt aktuella data.  
+    * **Forskning** Man bistår forskare med statistiska analyser.
 
-    Researched how to assign aircraft on an airline network in the most
-    efficient way. I authored several projects, including a C++ solver,
-    a Python suite of 20+ command line tools, and Hadoop data mining
-    scripts. I also worked as a teaching assistant at the university,
-    further improving my communication and public speaking skills.
+1996-2005 
+:   *Allt i allo* (Delos AB, psykiatrisk mottagning i Umeå).
 
-2008 (3 months)
-:   *Internship at [Rio Tinto Alcan](http://www.riotintoalcan.com/)*
-    (Clermont Ferrand, France).
+    Jobbade som timanställd. Till en början bestod arbetsuppgifterna mest av städning och enklare fastighetsunderhåll men på senare år även skrivning av patientjournaler och betalning av fakturor.
 
-    Co-authored a C++ library for optimizing the revenue of a metal
-    factory. This work was published in the corporate journal of the
-    company.
+  
+  
+2001-2002 (Somrarna)
+:   *Gastekniker*
+    (Västerbottens läns landsting)
+    
+    Arbetsuppgifterna bestod i attt förse de olika avdelningarna med
+    gas. Vissa avdelningar fick sin gas i tuber som jag levererade och andra fick gas via ett rörsystem som förser dem med Gasol, Koldioxid och Lustgas. För att detta skulle fungera bytte jag tuber till ramper som försåg systemet med gas.
+    
 
-2007 (3 months)
-:   *Internship at [GE
-    Healthcare](http://www3.gehealthcare.com/en/Global_Gateway)* (Paris,
-    France).
-
-    Elaborated an UML spec for the refactoring of 20.000 lines of C++.
-
-Selected Open Source Contributions
-----------------------------------
-
-Python
-:   Contributor to [pulp-or](http://code.google.com/p/pulp-or/), a
-    linear programming Python library. Author of small tools, like
-    [michel](https://github.com/chmduquesne/michel), a command line
-    program providing bidirectionnal synchronization of google tasks
-    with text files.
-
-C++
-:   Author of
-    [yaposib](http://yaposib.readthedocs.org/en/latest/index.html), a
-    Python binding to COIN-OSI that is now supported by
-    [pulp-or](http://code.google.com/p/pulp-or/).
-
-C
-:   Author of
-    [lazylpsolverlibs](https://code.google.com/p/lazylpsolverlibs/), a
-    set of proxy libraries targeting cplex, gurobi and xpress. I also
-    started writing
-    [sharebox](https://github.com/chmduquesne/sharebox-fs), a
-    distributed FUSE file system based on git.
-
-Java
-:   Author of [talkmyphone](http://code.google.com/p/talkmyphone/), an
-    android application allowing phone control via gtalk. It had 10.000+
-    downloads, and was forked 50 times. It was then successfully handed
-    over to [other developers](http://code.google.com/p/gtalksms/).
-
-Misc
-:   Lua, Ada, Bash, Makefile, m4, autotools, cmake... See my [github
-    résumé](http://resume.github.com/?chmduquesne). My
-    [kudorank](http://meta.ohloh.net/kudos/) on ohloh is 9, among the
-    top 2% of opensource developers.
-
-Linux
-:   My daily operating system: I [blog](http://blog.chmd.fr) about it
-    sometimes.
-
-Education
+Utbildning
 ---------
 
-2009-2012
-:   *PhD in Mathematics and Computer Science at G-SCOP Laboratory*
-    (Grenoble, France).
+1999-2005
+:   *Civilingenjörsprogrammete i teknisk fysik* (Umeå universitet).
+    Jag har fördjupat mig mot mätfysik och matematisk statistik men har även läst en del fördjupningskurser i optik.
+    
+2013
+:   *Scrum master-utbildning* (Stockholm).
 
-    Title: Integration of Fleet Deployment and of Passenger Service in
-    Airline Schedule Management. Done at Amadeus, in the Operation
-    Research team led by [Semi
-    Gabteni](http://www.linkedin.com/in/semigabteni). Advisors: [Denis
-    Naddef](http://www.g-scop.inpg.fr/~naddefd/), [Olivier
-    Briant](http://www.g-scop.inpg.fr/~brianto/index.php?page=1).
-    Defended in January 2013.
+    En 2-dagars kurs av Citerus. Handlade om scrumarbete. I synnerhet srum master-rollen
+    
+2012
+:   *Advanced Programming in R* (www.statistics.com)
+    En kurs som hölls i av R-gurun Hadley Wickham. Innehöll generella koncept så som scope, klasser, debugging o.s.v. men även mycket om hans R-paket plyr, ggplot2 och reshape som används för att bearbeta och presentera data.
 
-2005-2009
-:   *MS in Computer Science in ENSIMAG* (Grenoble, France).
+2006
+:   *Epidemilogy in R* (Tarttu, Estland).
 
-    Top French school of Applied Mathematics and Computer Science with
-    highly selective recruitment.
+    En 5-dagarskurs i epidemiologi i statistikprogrammet R. Särskild fördjupning av funktionerna i R-paketet 'Epi'.
 
-2002-2005
-:   *Preparatory classes in Lycée Thiers* (Marseille, France).
+Programmeringskunskaper
+-------------------------
+R, HTML, Javascript, jQuery, Angular, Knockout, Git, LaTeX, Markdown, Matlab. 
 
-    Mathematics and Physics courses before a national competitive
-    examination to Grandes Écoles.
 
-Activities and interests
+Intressen
 ------------------------
 
-Hobbies
-:   I like travelling. I backpacked in 13 countries in Eastern Europe
-    and South East Asia.
-
-Sports
-:   Running, Cycling, Hiking. I also played rugby union for 7 years.
-
-Activities
-:   I was the president of the [grand
-    cercle](http://www.grandcercle.org), one of the largest French
-    campus student associations (5.000 members) during university.
+Mycket av min fritid går åt till mina 2 största intressen. Musik och idrott. Sjunger i operakören här i Umeå och spelar även en del gitarr. Jag har tidigare spelat fotboll i 18 år men håller numera igång med att springa och åka skidor. Har ett stort hockeyintresse. Spelar Björklöven en viktig match så är jag där!
 
 ----
 
-> <chmd@chmd.fr> • +336 84 14 26 82 • 28 years old\
->  275, chemin du Petit Castel - 13100 Aix en Provence, FRANCE
+> E-mail: mailto:benjaradona@gmail.com 
+> Mobil: 073-612 90 72
+> Adress: Östermalmsgatan 34A, 90332 Umeå
