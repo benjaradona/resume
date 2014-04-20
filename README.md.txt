@@ -1,7 +1,7 @@
-# 140421 
-Skapade cv:t med markdown. Gjorde en manuell ändring i HTML-filen för att jag inte fick punktlistan att bli helt bra direkt.
+ï»¿# 140421 
+Skapade cv:t med markdown. Gjorde en manuell Ã¤ndring i HTML-filen fÃ¶r att jag inte fick punktlistan att bli helt bra direkt.
 
-Använde ett program wkhtmltox för att konovertera till pdf. Gick först inte men när jag laddade hem programmet från 
-ett annat ställe funkade det fint.
+AnvÃ¤nde ett program wkhtmltox fÃ¶r att konovertera till pdf. Gick fÃ¶rst inte men nÃ¤r jag laddade hem programmet frÃ¥n 
+ett annat stÃ¤lle funkade det fint.
 
-### Readme-fil för mitt cv.
+### Readme-fil fÃ¶r mitt cv.
